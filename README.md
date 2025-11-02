@@ -1,4 +1,4 @@
-> ***Important Notice ‼️*** ``Its may possible this script will no longer will be worker and i havent much time to update it and make it workable. If you want to a workable script or paid scirpt message me on `` 👉🏻 **Instagram** [@saifaliopp](https://instagram.com/saifaliopp) or 👉🏻 **Telegram** [@DearSaif](https://t.me/DearSaif) 
+> ***Important Notice ‼️*** ``Its may possible this script will no longer will be worker and i havent much time to update it and make it workable. If you want to a workable script or paid scirpt message me on `` 👉🏻 **Instagram** [@saifali_patho](https://instagram.com/saifali_patho) or 👉🏻 **Telegram** [@DearSaif](https://t.me/DearSaif) 
 
 <details><summary><h3>ABOUT😎</h3></summary>
   
@@ -73,11 +73,11 @@
 * First Open Termux App
 
 ```
-apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/saifalisew1508/Telegram-Members-Adder.git
+apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/saifalisew1508/Updated.git
 ```
 
 ```
-cd Telegram-Members-Adder && ls
+cd Updated && ls
 ```
 
 ```
